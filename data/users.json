@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "phone": "1234567890",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "name": "sarthak",
+    "email": "sarthak@gmail.com",
+    "password": "sarthak123",
+    "phone": "7418529631",
+    "role": "user",
+    "id": "EMP-61095285-LM",
+    "createdAt": "2025-12-04T18:11:21.898Z"
+  },
+  {
+    "name": "bhumi",
+    "email": "bhumi123@gmail.com",
+    "password": "bhumi123",
+    "phone": "7451236988",
+    "role": "user",
+    "id": "EMP-52750432-LM",
+    "createdAt": "2025-12-05T05:59:28.138Z"
+  }
+]
